@@ -60,8 +60,11 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihsanbil&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Ihsan's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanbil&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ihsanbil&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsanbil&theme=react-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=C9D1D9&color=58A6FF" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 <p align="center">
