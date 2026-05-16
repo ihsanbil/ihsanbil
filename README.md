@@ -1,7 +1,7 @@
 # Halo, saya Ihsan Bilhaq 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=680&lines=Front-End+Developer;UI%2FUX+Enthusiast;Membangun+antarmuka+yang+rapi%2C+responsif%2C+dan+berkarakter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=760&lines=Front-End+Developer;UI%2FUX+Enthusiast;Clean+at+first+glance%2C+characterful+on+closer+look;Membangun+antarmuka+yang+rapi%2C+responsif%2C+dan+berkarakter" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,6 +20,14 @@
   <img src="https://komarev.com/ghpvc/?username=ihsanbil&color=2F80ED&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ihsanbil/ihsanbil/output/local-time.svg" alt="Jam lokal Jakarta" />
+</p>
+
+<p align="center">
+  <em>Clean at first glance. Characterful on closer look.</em>
+</p>
+
 ---
 
 ## Tentang Saya
@@ -30,6 +38,19 @@ Saya tertarik pada titik temu antara **frontend engineering** dan **UI/UX**: bag
 - Saya senang merancang UI yang **bersih, responsif, dan punya karakter visual**.
 - Gaya yang paling menarik buat saya: **minimalis** dan **neo-brutalism**.
 - Saya terbuka untuk diskusi seputar **frontend development, web design, dan pengalaman pengguna**.
+
+---
+
+## Design Taste
+
+```text
+clear hierarchy   generous spacing   deliberate contrast
+quiet structure   bold accents       interfaces with a point of view
+```
+
+- Saya suka tampilan yang terasa **tenang**, tapi tidak kehilangan sikap.
+- Buat saya, UI yang baik bukan yang paling ramai—melainkan yang tahu **apa yang harus ditekankan**.
+- Detail kecil seperti ritme jarak, kontras, dan micro-copy sering menentukan apakah sebuah produk terasa biasa atau berkelas.
 
 ---
 
@@ -66,9 +87,9 @@ Saya tertarik pada titik temu antara **frontend engineering** dan **UI/UX**: bag
 
 ## Sedang Dieksplorasi
 
-- **Neo-Brutalism Portfolio** — portofolio pribadi dengan visual yang berani dan struktur yang tetap rapi.
-- **Digital Wedding Invitation** — pengalaman undangan digital yang minimalis, ringan, dan terasa personal.
-- **BilbotID Chat UI** — eksplorasi antarmuka percakapan yang bersih untuk produk berbasis AI.
+- **Neo-Brutalism Portfolio** — mencari titik temu antara visual yang berani dan layout yang tetap terukur.
+- **Digital Wedding Invitation** — membangun pengalaman yang terasa personal tanpa kehilangan kesederhanaan.
+- **BilbotID Chat UI** — mengeksplorasi antarmuka percakapan yang lebih tenang, bersih, dan mudah diikuti.
 
 ---
 
@@ -93,3 +114,9 @@ Saya tertarik pada titik temu antara **frontend engineering** dan **UI/UX**: bag
     <img alt="Animasi kontribusi GitHub" src="https://raw.githubusercontent.com/ihsanbil/ihsanbil/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+---
+
+## Catatan Kecil
+
+Saya percaya antarmuka yang baik tidak perlu berteriak untuk diingat—cukup punya struktur yang kuat, rasa yang konsisten, dan satu-dua keputusan visual yang berani.
