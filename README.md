@@ -46,6 +46,17 @@
 
 ---
 
+### 🚀 Proyek Unggulan
+
+| Proyek | Deskripsi | Tech Stack |
+| :--- | :--- | :--- |
+| **[Neo-Brutalism Portfolio](https://github.com/ihsanbil)** | Website portofolio pribadi interaktif dengan gaya desain modern Neo-Brutalism. | Next.js, Tailwind CSS |
+| **[myBCA Redesign](https://github.com/ihsanbil/UI-UX-Mobile-App-BCA)** | Eksplorasi desain ulang UI/UX yang modern untuk aplikasi perbankan. | React Native, Figma |
+| **[Digital Wedding Invitation](https://github.com/ihsanbil)** | Platform undangan pernikahan digital dengan gaya minimalis dan elegan. | React, Tailwind CSS |
+| **[BilbotID Chat UI](https://github.com/ihsanbil)** | Antarmuka asisten AI canggih dengan berbagai mode respons. | Next.js, API |
+
+---
+
 ### 📊 Statistik GitHub
 
 <p align="center">
@@ -62,9 +73,6 @@
 ### 🤝 Mari Terhubung!
 
 <p align="left">
-  <a href="https://linkedin.com/in/ihsanbil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://www.instagram.com/bilhaq_tv/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
