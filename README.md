@@ -37,10 +37,7 @@
 
 Saya tertarik pada titik temu antara **frontend engineering** dan **UI/UX**: bagaimana sebuah produk tidak hanya terlihat baik, tetapi juga terasa jelas saat dipakai.
 
-- Fokus saat ini: **Next.js, React, Tailwind CSS**, dan eksplorasi antarmuka modern.
-- Saya senang merancang UI yang **bersih, responsif, dan punya karakter visual**.
-- Gaya yang paling menarik buat saya: **minimalis** dan **neo-brutalism**.
-- Saya terbuka untuk diskusi seputar **frontend development, web design, dan pengalaman pengguna**.
+Fokus saya saat ini ada pada **Next.js, React, Tailwind CSS**, dan eksplorasi antarmuka modern. Saya senang merancang UI yang **bersih, responsif, dan punya karakter visual**, terutama dalam gaya **minimalis** dan **neo-brutalism**. Saya juga terbuka untuk diskusi seputar **frontend development, web design, dan pengalaman pengguna**.
 
 ---
 
@@ -51,9 +48,7 @@ clear hierarchy   generous spacing   deliberate contrast
 quiet structure   bold accents       interfaces with a point of view
 ```
 
-- Saya suka tampilan yang terasa **tenang**, tapi tidak kehilangan sikap.
-- Buat saya, UI yang baik bukan yang paling ramai—melainkan yang tahu **apa yang harus ditekankan**.
-- Detail kecil seperti ritme jarak, kontras, dan micro-copy sering menentukan apakah sebuah produk terasa biasa atau berkelas.
+Saya suka tampilan yang terasa **tenang**, tapi tidak kehilangan sikap. Buat saya, UI yang baik bukan yang paling ramai, melainkan yang tahu **apa yang harus ditekankan**. Detail kecil seperti ritme jarak, kontras, dan micro-copy sering menentukan apakah sebuah produk terasa biasa atau berkelas.
 
 ---
 
@@ -90,9 +85,9 @@ quiet structure   bold accents       interfaces with a point of view
 
 ## Sedang Dieksplorasi
 
-- **Neo-Brutalism Portfolio** — mencari titik temu antara visual yang berani dan layout yang tetap terukur.
-- **Digital Wedding Invitation** — membangun pengalaman yang terasa personal tanpa kehilangan kesederhanaan.
-- **BilbotID Chat UI** — mengeksplorasi antarmuka percakapan yang lebih tenang, bersih, dan mudah diikuti.
+**Neo-Brutalism Portfolio** mengeksplorasi titik temu antara visual yang berani dan layout yang tetap terukur.  
+**Digital Wedding Invitation** membangun pengalaman yang terasa personal tanpa kehilangan kesederhanaan.  
+**BilbotID Chat UI** mengeksplorasi antarmuka percakapan yang lebih tenang, bersih, dan mudah diikuti.
 
 ---
 
