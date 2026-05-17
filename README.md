@@ -117,4 +117,4 @@ Saya suka tampilan yang terasa **tenang**, tapi tidak kehilangan sikap. Buat say
 
 ## Catatan Kecil
 
-Saya percaya antarmuka yang baik tidak perlu berteriak untuk diingat cukup punya struktur yang kuat, rasa yang konsisten, dan satu-dua keputusan visual yang berani.
+Saya percaya antarmuka yang baik tidak perlu berteriak untuk diingat, cukup punya struktur yang kuat, rasa yang konsisten, dan satu-dua keputusan visual yang berani.

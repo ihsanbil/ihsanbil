@@ -9,6 +9,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: profile-output-assets
+  cancel-in-progress: false
+
 jobs:
   generate:
     permissions:
@@ -19,6 +23,20 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+
+      - name: Checkout current output assets
+        continue-on-error: true
+        uses: actions/checkout@v6
+        with:
+          ref: output
+          path: current-output
+
+      - name: Prepare assets directory
+        run: |
+          mkdir -p dist
+          if [ -d current-output ]; then
+            find current-output -mindepth 1 -maxdepth 1 ! -name '.git' -exec cp -R {} dist/ \;
+          fi
 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3.4.0

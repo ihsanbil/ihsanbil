@@ -9,6 +9,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: profile-output-assets
+  cancel-in-progress: false
+
 jobs:
   update:
     permissions:
@@ -21,6 +25,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Checkout current output assets
+        continue-on-error: true
         uses: actions/checkout@v6
         with:
           ref: output
@@ -29,7 +34,9 @@ jobs:
       - name: Prepare assets directory
         run: |
           mkdir -p dist
-          find current-output -mindepth 1 -maxdepth 1 ! -name '.git' -exec cp -R {} dist/ \;
+          if [ -d current-output ]; then
+            find current-output -mindepth 1 -maxdepth 1 ! -name '.git' -exec cp -R {} dist/ \;
+          fi
 
       - name: Render local time badge
         run: |
