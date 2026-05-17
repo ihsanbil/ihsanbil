@@ -1,7 +1,0 @@
-﻿<svg width="184" height="36" viewBox="0 0 184 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0.5" y="0.5" width="183" height="35" rx="17.5" fill="#0D1117" stroke="#30363D"/>
-  <circle cx="18" cy="18" r="4" fill="#58A6FF"/>
-  <text x="30" y="22" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="1">JAKARTA</text>
-  <text x="104" y="23" fill="#F0F6FC" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="700">--:--</text>
-  <text x="157" y="22" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="12">WIB</text>
-</svg>

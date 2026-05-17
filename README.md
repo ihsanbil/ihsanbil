@@ -21,13 +21,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/ihsanbil/ihsanbil/output/local-time.svg">
-    <img src="./local-time.svg" alt="Jam lokal Jakarta" />
-  </picture>
-</p>
-
-<p align="center">
   <em>Clean at first glance. Characterful on closer look.</em>
 </p>
 
