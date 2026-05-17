@@ -21,7 +21,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ihsanbil/ihsanbil/output/local-time.svg" alt="Jam lokal Jakarta" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/ihsanbil/ihsanbil/output/local-time.svg">
+    <img src="./local-time.svg" alt="Jam lokal Jakarta" />
+  </picture>
 </p>
 
 <p align="center">
